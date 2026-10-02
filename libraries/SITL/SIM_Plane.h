@@ -52,7 +52,7 @@ protected:
         float s = 0.45;
         float b = 1.88;
         float c = 0.24;
-        float c_lift_0 = 0.56;
+        float c_lift_0 = 0.565;
         float c_lift_deltae = 0;
         float c_lift_a = 6.9;
         float c_lift_q = 0;
